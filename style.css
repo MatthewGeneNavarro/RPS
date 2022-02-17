@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.results{
+    display: flex;
+    justify-content: space-evenly;
+}
+.winner{
+
+}
+
+.count{
+    
+}
